@@ -1,15 +1,4 @@
 
-
-#Tuesday work -- 
-#Break up code setting into two separate classes.
-#Print instructions with color for each of the 8 possibilities.
-#Write into game class hwo to take player guesses
-#Make class for printing game board after each round with feedback about guesses
-#Write algorithm to producess feedback
-#Write algorithm to check for winning board
-#Write winning method with text
-#Write loss method with text
-
 #starts game and takes input whether or not player will be writing the code or solving
 
 
